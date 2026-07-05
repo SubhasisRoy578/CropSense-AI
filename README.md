@@ -1,38 +1,37 @@
-<<<<<<< HEAD
-# Crop-Sense-AI
+# 🌱 CropSense AI
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [v0](https://v0.app).
+AI-powered Smart Farming Advisory System built using Google Gemma, weather data, and crop market prices.
 
-## Built with v0
+## 🚀 Live Demo
 
-This repository is linked to a [v0](https://v0.app) project. You can continue developing by visiting the link below -- start new chats to make changes, and v0 will push commits directly to this repo. Every merge to `main` will automatically deploy.
+**Frontend:** https://cropsense-ai-1-g1mumq933-roysubhasistech-7470s-projects.vercel.app/
 
-[Continue working on v0 →](https://v0.app/chat/projects/prj_aCjMSbI1Y4VyPWCOeC0KAsUrkXFD)
+## 📂 GitHub Repository
 
-## Getting Started
+https://github.com/SubhasisRoy578/CropSense-AI
 
-First, run the development server:
+## ✨ Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+- AI-powered crop recommendations
+- Weather forecasting
+- Market price analysis
+- Interactive dashboard
+- Farmer-friendly insights
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Tech Stack
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- React / Next.js
+- Tailwind CSS
+- Python
+- Google Gemma
+- Kaggle
+- Pandas
+- Matplotlib
 
-## Learn More
+## 📸 Screenshots
 
-To learn more, take a look at the following resources:
+(Add screenshots here after your project is complete.)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-- [v0 Documentation](https://v0.app/docs) - learn about v0 and how to use it.
-=======
-# CropSense-AI
-AI-powered farmer advisory system using Gemma, weather and crop price data.
->>>>>>> f8c692e3ccde1721aa1c28586780399986c5da65
+## 👥 Team
+
+Team: CropSense AI
