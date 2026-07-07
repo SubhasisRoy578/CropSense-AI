@@ -28,10 +28,6 @@ https://github.com/SubhasisRoy578/CropSense-AI
 - Pandas
 - Matplotlib
 
-## 📸 Screenshots
-
-(Add screenshots here after your project is complete.)
-
 ## 👥 Team
 
 Team: CropSense AI
