@@ -28,6 +28,11 @@ https://github.com/SubhasisRoy578/CropSense-AI
 - Pandas
 - Matplotlib
 
+## Kaggle Notebook
+
+(Paste the Kaggle Notebook link here after publishing)
+
+
 ## 👥 Team
 
 Team: CropSense AI
