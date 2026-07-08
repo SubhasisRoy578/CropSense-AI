@@ -12,7 +12,7 @@ Developed as part of the **Google Gemma Hackathon**, CropSense AI demonstrates h
 
 **Frontend Application**
 
-> https://YOUR-LIVE-DEMO-LINK
+> https://cropsense-ai-1-g1mumq933-roysubhasistech-7470s-projects.vercel.app
 
 ---
 
@@ -338,9 +338,9 @@ Future enhancements planned for CropSense AI include:
 
 # Contributors
 
-**Subhasis Roy**
+**Subhasis Roy** and **Soumyadeep Pal**
 
-Project Developer
+Project Developers
 
 ---
 
@@ -366,7 +366,7 @@ This project is released under the **MIT License**.
 
 ## Contact
 
-**Developer:** Subhasis Roy
+**Developers:** Subhasis Roy and Soumyadeep Pal
 
 **GitHub:** https://github.com/SubhasisRoy578/CropSense-AI
 
